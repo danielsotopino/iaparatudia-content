@@ -1,7 +1,7 @@
 ---
 title: "Claude 4 llega con nuevas capacidades para pequeños negocios"
 description: "El nuevo modelo de IA de Anthropic promete revolucionar la atención al cliente"
-publishDate: "2025-01-20"
+publishDate: "2025-01-20T00:00:00Z"
 author: "IA para tu día"
 tags: ["claude", "chatbots", "atencion-cliente"]
 featured: true

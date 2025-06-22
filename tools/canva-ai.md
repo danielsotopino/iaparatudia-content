@@ -8,7 +8,7 @@ pricing: "freemium"
 difficulty: "principiante"
 tags: ["Redes sociales", "Marketing", "Presentaciones"]
 featured: false
-publishDate: "2024-07-25"
+publishDate: "2024-07-25T00:00:00Z"
 roi_estimate: "2-3 horas/día"
 languages: ["Español"]
 ---
