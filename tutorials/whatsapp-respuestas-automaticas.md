@@ -4,7 +4,7 @@ description: "Configura mensajes automáticos para atender clientes 24/7"
 duration: "5 minutos"
 difficulty: "principiante"
 tools_needed: ["WhatsApp Business", "Smartphone"]
-publishDate: "2025-01-20T00:00:00Z"
+publishDate: 2025-01-20
 category: "atencion-cliente"
 outcome: "Responder 80% de consultas automáticamente"
 materials: ["/downloads/plantillas-whatsapp.pdf"]
