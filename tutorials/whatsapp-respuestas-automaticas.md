@@ -2,19 +2,20 @@
 title: "Automatizar respuestas de WhatsApp Business en 5 minutos"
 description: "Configura mensajes automáticos para atender clientes 24/7"
 duration: "5 minutos"
-difficulty: "Fácil"
-tools: ["WhatsApp Business", "Smartphone"]
-publishDate: 2025-01-20
-category: "Atención al cliente"
-image: "/images/tutoriales/whatsapp-automation-cover.jpg"
-videoUrl: "https://youtube.com/watch?v=ejemplo"
-downloadables: ["/downloads/plantillas-whatsapp.pdf"]
-businessImpact: "Responder 80% de consultas automáticamente"
+difficulty: "principiante"
+tools_needed: ["WhatsApp Business", "Smartphone"]
+publishDate: "2025-01-20"
+category: "atencion-cliente"
+outcome: "Responder 80% de consultas automáticamente"
+materials: ["/downloads/plantillas-whatsapp.pdf"]
+steps: 4
+tags: ["WhatsApp", "Automatización", "Atención al cliente"]
+featured: false
 ---
 
 # Automatizar respuestas de WhatsApp Business en 5 minutos
 
-![WhatsApp Business automation](../images/tutoriales/whatsapp-automation-cover.jpg)
+![WhatsApp Business automation](/images/tutoriales/whatsapp-automation-cover.jpg)
 
 **Resultado:** Tus clientes recibirán respuesta inmediata, incluso cuando no estés disponible.
 
@@ -27,7 +28,7 @@ businessImpact: "Responder 80% de consultas automáticamente"
 
 Abre WhatsApp Business → **Configuración** → **Herramientas empresariales**
 
-![Menú de herramientas empresariales](../images/tutoriales/whatsapp-paso1.jpg)
+![Menú de herramientas empresariales](/images/tutoriales/whatsapp-paso1.jpg)
 
 ## Paso 2: Crear tu mensaje automático
 
@@ -42,7 +43,7 @@ Gracias por contactar [Tu Negocio].
 📍 Dirección: [Tu dirección]
 Te responderé en máximo 2 horas.
 
-![Configuración del mensaje de bienvenida](../images/tutoriales/whatsapp-paso2.jpg)
+![Configuración del mensaje de bienvenida](/images/tutoriales/whatsapp-paso2.jpg)
 
 ## Paso 3: Configurar respuestas rápidas
 
@@ -50,7 +51,7 @@ Ve a **"Mensajes rápidos"** → **"+ Nuevo mensaje"**
 
 Crea respuestas para preguntas frecuentes:
 
-![Ejemplo de respuestas rápidas](../images/tutoriales/whatsapp-respuestas-rapidas.png)
+![Ejemplo de respuestas rápidas](/images/tutoriales/whatsapp-respuestas-rapidas.png)
 
 ## Paso 4: Activar mensaje de ausencia
 
@@ -63,12 +64,12 @@ Tu mensaje es importante. Responderemos mañana a primera hora.
 
 ## Resultado final
 
-![Ejemplo de conversación automatizada](../images/tutoriales/whatsapp-resultado.gif)
+![Ejemplo de conversación automatizada](/images/tutoriales/whatsapp-resultado.gif)
 
 ## ¿Qué sigue?
 - **Próximo tutorial:** "Integrar chatbot con WhatsApp Business"
-- **Descarga:** [Plantillas de mensajes](../downloads/plantillas-whatsapp.pdf)
+- **Descarga:** [Plantillas de mensajes](/downloads/plantillas-whatsapp.pdf)
 - **Tiempo ahorrado:** 2-3 horas diarias respondiendo lo mismo
 
 ## ¿Te funcionó?
-Si tienes dudas, responde este email con tu pregunta.
+Si tienes dudas, responde este email con tu pregunta. 
