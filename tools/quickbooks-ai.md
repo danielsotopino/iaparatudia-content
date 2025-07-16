@@ -3,12 +3,12 @@ title: "QuickBooks AI"
 description: "Un asistente de contabilidad impulsado por IA que automatiza tareas, predice el flujo de caja y ofrece información financiera."
 logo: "/images/tools/quickbooks-ai-logo.jpg"
 website: "https://quickbooks.intuit.com/"
-category: "finanzas-contabilidad"
-pricing: "paid"
+category: "finanzas"
+pricing: "pago"
 difficulty: "intermedio"
 tags: ["Contabilidad", "Finanzas", "Facturación"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "5-10 horas/semana"
 languages: ["Español", "Inglés"]
 ---

@@ -3,12 +3,12 @@ title: "Microsoft Power BI"
 description: "Una plataforma de BI que permite importar datos de diversas fuentes para crear informes y paneles interactivos con IA."
 logo: "/images/tools/powerbi-ai-logo.jpg"
 website: "https://powerbi.microsoft.com/es-es/"
-category: "analisis-de-datos"
+category: "analisis"
 pricing: "freemium"
 difficulty: "intermedio"
 tags: ["BI", "Análisis de Datos", "Informes"]
 featured: true
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "8-12 horas/semana"
 languages: ["Español", "Inglés"]
 ---

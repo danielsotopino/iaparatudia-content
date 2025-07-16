@@ -3,12 +3,12 @@ title: "Uizard"
 description: "Transforma bocetos dibujados a mano, capturas de pantalla o simples indicaciones de texto en maquetas y prototipos editables."
 logo: "/images/tools/uizard-ai-logo.jpg"
 website: "https://uizard.io/"
-category: "diseno-prototipado"
+category: "diseno"
 pricing: "freemium"
 difficulty: "principiante"
 tags: ["Diseño UI", "Prototipado", "Maquetas"]
 featured: true
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "4-8 horas/semana"
 languages: ["Inglés"]
 ---

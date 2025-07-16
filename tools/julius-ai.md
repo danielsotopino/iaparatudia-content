@@ -3,12 +3,12 @@ title: "Julius AI"
 description: "Una herramienta inteligente que interpreta, analiza y visualiza datos complejos a partir de lenguaje natural."
 logo: "/images/tools/julius-ai-logo.jpg"
 website: "https://julius.ai/"
-category: "analisis-de-datos"
+category: "analisis"
 pricing: "freemium"
 difficulty: "principiante"
 tags: ["Análisis de Datos", "Visualización", "Lenguaje Natural"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "3-6 horas/semana"
 languages: ["Inglés"]
 ---

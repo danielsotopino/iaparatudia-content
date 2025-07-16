@@ -3,12 +3,12 @@ title: "Slack AI"
 description: "Funciones de IA que permiten buscar información en toda la empresa, resumir conversaciones y recibir resúmenes diarios."
 logo: "/images/tools/slack-ai-logo.jpg"
 website: "https://slack.com/intl/es-es/features/ai"
-category: "comunicacion-equipos"
-pricing: "paid"
+category: "comunicacion"
+pricing: "pago"
 difficulty: "principiante"
 tags: ["Comunicación", "Productividad", "Resúmenes"]
 featured: true
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "1-2 horas/día"
 languages: ["Español", "Inglés"]
 ---

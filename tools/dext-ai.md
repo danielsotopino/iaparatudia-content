@@ -3,12 +3,12 @@ title: "Dext"
 description: "Automatiza la recopilación y el procesamiento de facturas, recibos y extractos bancarios con una precisión superior al 99%."
 logo: "/images/tools/dext-logo.jpg"
 website: "https://dext.com/"
-category: "finanzas-contabilidad"
-pricing: "paid"
+category: "finanzas"
+pricing: "pago"
 difficulty: "principiante"
 tags: ["Facturación", "Contabilidad", "Gastos"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "4-8 horas/semana"
 languages: ["Español", "Inglés"]
 ---

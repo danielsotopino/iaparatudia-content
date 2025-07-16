@@ -3,12 +3,12 @@ title: "Otter.ai"
 description: "Transcribe automáticamente reuniones de voz en tiempo real, identifica a los oradores y genera resúmenes."
 logo: "/images/tools/otter-ai-logo.jpg"
 website: "https://otter.ai/"
-category: "comunicacion-equipos"
+category: "comunicacion"
 pricing: "freemium"
 difficulty: "principiante"
 tags: ["Transcripción", "Reuniones", "Productividad"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "3-5 horas/semana"
 languages: ["Inglés"]
 ---

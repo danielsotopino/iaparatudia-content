@@ -3,12 +3,12 @@ title: "Tableau"
 description: "Herramienta para crear visualizaciones y paneles personalizados para explorar datos de forma dinámica con funciones de IA generativa."
 logo: "/images/tools/tableau-ai-logo.jpg"
 website: "https://www.tableau.com/es-es"
-category: "analisis-de-datos"
-pricing: "paid"
+category: "analisis"
+pricing: "pago"
 difficulty: "intermedio"
 tags: ["BI", "Visualización de Datos", "Análisis"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "8-12 horas/semana"
 languages: ["Español", "Inglés"]
 ---

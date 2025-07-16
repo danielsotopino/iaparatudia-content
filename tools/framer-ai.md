@@ -3,12 +3,12 @@ title: "Framer AI"
 description: "Permite crear sitios web interactivos y responsivos directamente desde instrucciones de texto."
 logo: "/images/tools/framer-ai-logo.jpg"
 website: "https://www.framer.com/ai"
-category: "diseno-prototipado"
+category: "diseno"
 pricing: "freemium"
 difficulty: "principiante"
 tags: ["Diseño Web", "Prototipado", "No-Code"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "10-20 horas/proyecto"
 languages: ["Inglés"]
 ---

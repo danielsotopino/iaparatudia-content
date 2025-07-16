@@ -3,12 +3,12 @@ title: "Miro AI"
 description: "Una plataforma de colaboración visual que utiliza IA para crear mapas mentales, agrupar elementos y generar presentaciones."
 logo: "/images/tools/miro-ai-logo.jpg"
 website: "https://miro.com/ai/"
-category: "comunicacion-equipos"
+category: "comunicacion"
 pricing: "freemium"
 difficulty: "principiante"
 tags: ["Colaboración", "Mapas Mentales", "Diagramas"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "2-4 horas/semana"
 languages: ["Español", "Inglés"]
 ---

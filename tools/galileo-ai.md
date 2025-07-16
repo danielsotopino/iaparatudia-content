@@ -3,12 +3,12 @@ title: "Galileo AI"
 description: "Crea diseños de interfaz de usuario modernos a partir de una simple descripción textual."
 logo: "/images/tools/galileo-ai-logo.jpg"
 website: "https://www.usegalileo.ai/"
-category: "diseno-prototipado"
+category: "diseno"
 pricing: "waitlist"
 difficulty: "principiante"
 tags: ["Diseño UI", "Generativo", "Maquetas"]
 featured: false
-publishDate: "2025-07-15"
+publishDate: 2025-07-15
 roi_estimate: "N/A"
 languages: ["Inglés"]
 ---
