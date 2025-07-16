@@ -7,7 +7,7 @@ tags: ["ia", "atencion-cliente", "chatbots", "automatizacion", "freshdesk"]
 featured: false
 image: "../images/noticias/ia-customer-service.jpg"
 readTime: "4 min"
-impact: "muy alto"
+impact: "alto"
 category: "atencion-cliente"
 ---
 
