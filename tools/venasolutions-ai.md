@@ -5,7 +5,7 @@ logo: "/images/tools/venasolutions-logo.jpg"
 website: "https://www.venasolutions.com/"
 category: "finanzas"
 pricing: "enterprise"
-difficulty: "experto"
+difficulty: "avanzado"
 tags: ["FP&A", "Finanzas", "Análisis"]
 featured: false
 publishDate: 2025-07-15
