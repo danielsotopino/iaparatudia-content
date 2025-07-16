@@ -4,7 +4,7 @@ description: "Ofrece información impulsada por IA para potenciar a los equipos 
 logo: "/images/tools/venasolutions-logo.jpg"
 website: "https://www.venasolutions.com/"
 category: "finanzas"
-pricing: "enterprise"
+pricing: "pago"
 difficulty: "avanzado"
 tags: ["FP&A", "Finanzas", "Análisis"]
 featured: false
