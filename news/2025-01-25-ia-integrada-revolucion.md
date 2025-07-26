@@ -5,15 +5,12 @@ publishDate: 2025-01-25
 author: "IA para tu día"
 tags: ["ia", "integracion", "productividad", "google-workspace", "microsoft-copilot"]
 featured: false
-image: "../images/noticias/ia-integrada.jpg"
 readTime: "4 min"
 impact: "alto"
 category: "productividad"
 ---
 
 # La IA ya no es una herramienta separada: La revolución de la IA integrada en 2025
-
-![Software con IA integrada en un escritorio](../images/noticias/ia-integrada.jpg)
 
 Si durante 2024 experimentaste con herramientas de inteligencia artificial, es probable que lo hicieras en aplicaciones específicas para generar texto o imágenes. En 2025, esa dinámica ha cambiado radicalmente. La tendencia más importante del año no es una nueva app, sino la **integración profunda de la IA en el software que tu negocio ya utiliza todos los días**.
 

@@ -5,15 +5,12 @@ publishDate: 2025-07-27
 author: "IA para tu día"
 tags: ["chile", "minciencia", "ia", "politica-ia", "etica", "gobernanza", "julio-2025"]
 featured: true
-image: "../images/noticias/ia-integrada.jpg"
 readTime: "3 min"
 impact: "alto"
 category: "gobierno-digital"
 ---
 
 # Chile en Julio 2025: MinCiencia Refuerza su Política Nacional de IA con Foco en Ética y Gobernanza
-
-![Personas colaborando en un entorno de innovación con pantallas mostrando datos y gráficos](../images/noticias/ia-integrada.jpg)
 
 Durante el mes de julio de 2025, Chile ha reafirmado su compromiso con el desarrollo responsable de la inteligencia artificial. El **Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (MinCiencia)** ha sido el protagonista, presentando una actualización clave de su **Política Nacional de Inteligencia Artificial**.
 

@@ -10,7 +10,6 @@ companies_involved: ["Google", "PyMEs latinoamericanas"]
 timeline: "Actualización lanzada en enero 2025"
 publishDate: 2025-01-15
 tags: ["google", "ia", "pymes", "gratuito", "latinoamerica", "2025", "actualizacion"]
-image: "../images/noticias/google-ai-pymes-2025.jpg"
 ---
 
 ![Dueños de pequeñas empresas en un entorno latinoamericano usando tecnología con gráficos de IA](../images/noticias/google-ai-pymes-2025.jpg)
