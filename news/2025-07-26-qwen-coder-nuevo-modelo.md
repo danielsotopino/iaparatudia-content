@@ -5,9 +5,8 @@ publishDate: 2025-07-26
 author: "IA para tu día"
 tags: ["qwen3-coder", "alibaba", "ia", "desarrollo", "programacion", "codigo-abierto", "moe"]
 featured: true
-image: "../images/noticias/qwen3-coder-lanzamiento.jpg"
 readTime: "4 min"
-impact: "muy alto"
+impact: "alto"
 category: "tecnologia-ia"
 ---
 
