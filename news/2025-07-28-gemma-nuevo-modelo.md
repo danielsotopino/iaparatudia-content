@@ -12,8 +12,6 @@ category: "tecnologia-ia"
 
 # Google Lanza Gemma 3: La IA Abierta que Desafía a los Modelos Cerrados
 
-![Ilustración del logotipo de Gemma 3 sobre un fondo de datos y código interconectado](../images/noticias/gemma-3-lanzamiento.jpg)
-
 Google ha vuelto a subir el listón en el campo de la inteligencia artificial de código abierto con el lanzamiento de **Gemma 3**, la tercera y más potente generación de su familia de modelos de IA. Construida con la tecnología de los avanzados modelos Gemini 2.0, Gemma 3 ofrece un rendimiento sin precedentes en un formato accesible, diseñado para funcionar desde en un portátil hasta en configuraciones de servidor complejas.
 
 ## Novedades Clave de la Familia Gemma 3
