@@ -7,7 +7,7 @@ tags: ["gemma-3", "google", "ia", "modelos-abiertos", "multimodal", "desarrollo"
 featured: true
 image: "../images/noticias/gemma-3-lanzamiento.jpg"
 readTime: "4 min"
-impact: "muy alto"
+impact: "alto"
 category: "tecnologia-ia"
 ---
 
