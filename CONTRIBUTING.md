@@ -23,6 +23,7 @@ featured: false (true si es una noticia destacada)
 readTime: "X min" (Estimación del tiempo de lectura)
 impact: "alto" (impacto de la noticia: "alto", "medio", "bajo")
 category: "categoria" (Categoría principal, ej: "tecnologia-ia", "marketing", "atencion-cliente")
+image: "/images/news/nombre-del-archivo-de-la-noticia.jpg" (Ruta a la imagen principal de la noticia, debe tener el mismo nombre que el archivo de la noticia)
 ---
 ```
 
@@ -36,7 +37,7 @@ publishDate: 2025-01-20
 author: "IA para tu día"
 tags: ["claude", "chatbots", "atencion-cliente"]
 featured: true
-image: "../images/noticias/claude-4-launch.jpg"
+image: "/images/news/2025-01-20-claude-nuevo-modelo.jpg"
 readTime: "3 min"
 impact: "alto"
 category: "atencion-cliente"
@@ -71,6 +72,7 @@ Si necesitas insertar una imagen en el cuerpo del artículo (no en el front matt
 - **Lenguaje Natural:** Usa un lenguaje cercano y natural, evitando tecnicismos innecesarios.
 - **Longitud Recomendada:** Aproximadamente 400-600 palabras, lo que equivale a 2-4 minutos de lectura.
 - **Fecha de Publicación:** Asegúrate de que la `publishDate` sea la fecha en que se debe publicar la noticia, no necesariamente la fecha actual de creación.
+- **Imágenes:** Cada noticia debe tener una imagen principal. La imagen debe guardarse en el directorio `images/news/` y tener el mismo nombre que el archivo de la noticia (incluyendo la fecha y la extensión `.jpg`).
 
 ### 4. Categorías y Etiquetas
 
@@ -115,6 +117,7 @@ featured: false
 readTime: "3 min"
 impact: "medio"
 category: "marketing"
+image: "/images/news/2025-07-30-titulo-de-la-noticia.jpg"
 ---
 
 # Título de la Noticia
