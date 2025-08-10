@@ -5,7 +5,7 @@ publishDate: 2025-01-20
 author: "IA para tu día"
 tags: ["claude", "chatbots", "atencion-cliente"]
 featured: true
-image: "../images/noticias/claude-4-launch.jpg"
+image: "/images/news/claude-4-launch.jpg"
 readTime: "3 min"
 impact: "alto"
 category: "atencion-cliente"

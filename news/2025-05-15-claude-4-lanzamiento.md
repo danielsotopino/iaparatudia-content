@@ -5,15 +5,13 @@ publishDate: 2025-05-15
 author: "IA para tu día"
 tags: ["claude", "anthropic", "ia", "empresas", "desarrollo"]
 featured: true
-image: "../images/noticias/claude-4-family.jpg"
+image: "/images/news/claude-4-family.jpg"
 readTime: "4 min"
 impact: "alto"
 category: "tecnologia-ia"
 ---
 
 # Anthropic Lanza Claude 4: Una Nueva Era de IA para Empresas
-
-![Familia de modelos Claude 4](../images/noticias/claude-4-family.jpg)
 
 Anthropic ha presentado oficialmente su nueva y más avanzada generación de modelos de inteligencia artificial: la familia Claude 4. Este lanzamiento, que tuvo lugar en mayo de 2025, incluye dos modelos principales, **Claude 4 Opus** y **Claude 4 Sonnet**, diseñados para cubrir un amplio espectro de necesidades empresariales, desde el razonamiento más complejo hasta la implementación a gran escala.
 
