@@ -8,6 +8,7 @@ featured: true
 readTime: "3 min"
 impact: "alto"
 category: "gobierno-digital"
+image: "/images/news/chile-ia-politica.jpg"
 ---
 
 # Chile en Julio 2025: MinCiencia Refuerza su Política Nacional de IA con Foco en Ética y Gobernanza

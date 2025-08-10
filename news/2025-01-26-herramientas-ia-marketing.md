@@ -8,6 +8,7 @@ featured: false
 readTime: "4 min"
 impact: "alto"
 category: "marketing"
+image: "/images/news/marketing-digital-2025.jpg"
 ---
 
 # Crea Contenido Como un Profesional: Las Mejores Herramientas de IA para Marketing en 2025

@@ -10,6 +10,7 @@ companies_involved: ["Google", "PyMEs latinoamericanas"]
 timeline: "Actualización lanzada en enero 2025"
 publishDate: 2025-01-15
 tags: ["google", "ia", "pymes", "gratuito", "latinoamerica", "2025", "actualizacion"]
+image: "/images/news/google-ai-pymes-2025.jpg"
 ---
 
 Un año después de su revolucionario lanzamiento, Google ha anunciado una importante actualización y expansión de su conjunto de herramientas de inteligencia artificial para las pequeñas y medianas empresas (PyMEs) de América Latina. La versión 2025 se basa en el éxito del programa inicial, incorporando la retroalimentación de miles de empresas y añadiendo capacidades aún más potentes, sin ningún costo.
