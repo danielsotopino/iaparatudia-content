@@ -8,7 +8,7 @@ featured: false
 readTime: "4 min"
 impact: "alto"
 category: "atencion-cliente"
-image: "/images/news/atencion-cliente-ia.jpg"
+image: "/images/news/2025-01-27-ia-atencion-cliente.jpg"
 ---
 
 # No Pierdas ni un Cliente: Cómo la IA Transforma la Atención al Cliente en 2025

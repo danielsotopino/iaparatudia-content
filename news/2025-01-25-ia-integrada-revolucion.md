@@ -8,7 +8,7 @@ featured: false
 readTime: "4 min"
 impact: "alto"
 category: "productividad"
-image: "/images/news/ia-integrada-revolucion.jpg"
+image: "/images/news/2025-01-25-ia-integrada-revolucion.jpg"
 ---
 
 # La IA ya no es una herramienta separada: La revolución de la IA integrada en 2025

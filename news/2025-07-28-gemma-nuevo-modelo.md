@@ -8,7 +8,7 @@ featured: true
 readTime: "4 min"
 impact: "alto"
 category: "tecnologia-ia"
-image: "/images/news/google-gemma-3.jpg"
+image: "/images/news/2025-07-28-gemma-nuevo-modelo.jpg"
 ---
 
 # Google Lanza Gemma 3: La IA Abierta que Desafía a los Modelos Cerrados

@@ -8,7 +8,7 @@ featured: true
 readTime: "4 min"
 impact: "alto"
 category: "tecnologia-ia"
-image: "/images/news/alibaba-qwen3-coder.jpg"
+image: "/images/news/2025-07-26-qwen-coder-nuevo-modelo.jpg"
 ---
 
 # Alibaba Lanza Qwen3-Coder: La IA de Código Abierto que Automatiza el Desarrollo
