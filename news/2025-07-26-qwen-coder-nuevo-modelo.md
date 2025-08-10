@@ -12,8 +12,6 @@ category: "tecnologia-ia"
 
 # Alibaba Lanza Qwen3-Coder: La IA de Código Abierto que Automatiza el Desarrollo
 
-![Ilustración de un agente de IA interactuando con un entorno de desarrollo de software complejo](../images/noticias/qwen3-coder-lanzamiento.jpg)
-
 Alibaba Cloud ha dado un paso de gigante en el campo de la inteligencia artificial para desarrolladores con el lanzamiento de **Qwen3-Coder**, un modelo de IA de código abierto diseñado no solo para generar código, sino para actuar como un agente de desarrollo autónomo. Este lanzamiento redefine las expectativas de lo que una herramienta de codificación de IA puede lograr.
 
 ## Arquitectura y Capacidades de Vanguardia

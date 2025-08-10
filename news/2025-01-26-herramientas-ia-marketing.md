@@ -5,15 +5,12 @@ publishDate: 2025-01-26
 author: "IA para tu día"
 tags: ["ia", "marketing", "contenido", "canva", "adobe", "redes-sociales"]
 featured: false
-image: "../images/noticias/ia-marketing.jpg"
 readTime: "4 min"
 impact: "alto"
 category: "marketing"
 ---
 
 # Crea Contenido Como un Profesional: Las Mejores Herramientas de IA para Marketing en 2025
-
-![Persona creando contenido de marketing en una tablet](../images/noticias/ia-marketing.jpg)
 
 Para una pequeña y mediana empresa, crear contenido de marketing atractivo y constante es un desafío constante. Requiere tiempo, habilidades de diseño y redacción. Sin embargo, en 2025, un arsenal de herramientas de inteligencia artificial está democratizando la creación de contenido, permitiendo a cualquier negocio producir materiales de calidad profesional con una fracción del esfuerzo.
 

@@ -5,15 +5,12 @@ publishDate: 2025-01-27
 author: "IA para tu día"
 tags: ["ia", "atencion-cliente", "chatbots", "automatizacion", "freshdesk"]
 featured: false
-image: "../images/noticias/ia-customer-service.jpg"
 readTime: "4 min"
 impact: "alto"
 category: "atencion-cliente"
 ---
 
 # No Pierdas ni un Cliente: Cómo la IA Transforma la Atención al Cliente en 2025
-
-![Agente de atención al cliente sonriendo mientras trabaja con un sistema de IA](../images/noticias/ia-customer-service.jpg)
 
 Una de las áreas más críticas para cualquier pequeña y mediana empresa es la atención al cliente. Una respuesta rápida y útil puede significar la diferencia entre una venta y una reseña negativa. En 2025, la inteligencia artificial está ofreciendo soluciones sofisticadas y, lo más importante, asequibles, para que las PyMEs no solo gestionen, sino que sobresalgan en su servicio al cliente.
 
