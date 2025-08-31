@@ -1,7 +1,7 @@
 ---
 title: "Zapier - Automatización Inteligente"
 description: "Conecta todas tus aplicaciones y automatiza tareas repetitivas"
-logo: "/images/herramientas/zapier-logo.jpg"
+logo: "/images/tools/zapier-logo.png"
 website: "https://zapier.com"
 category: "productividad"
 pricing: "freemium"

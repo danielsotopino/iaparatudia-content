@@ -1,7 +1,7 @@
 ---
 title: "Monday.com con IA"
 description: "Gestiona proyectos y equipos con automatización inteligente"
-logo: "/images/herramientas/monday-logo.jpg"
+logo: "/images/tools/monday-logo.ico"
 website: "https://monday.com"
 category: "operaciones"
 pricing: "premium"

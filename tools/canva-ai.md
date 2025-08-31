@@ -1,7 +1,7 @@
 ---
 title: "Canva AI"
 description: "Crea diseños profesionales con inteligencia artificial"
-logo: "/images/herramientas/canva-ai-hero.jpg"
+logo: "/images/tools/canva-ai-logo.png"
 website: "https://canva.com"
 category: "marketing-digital"
 pricing: "freemium"

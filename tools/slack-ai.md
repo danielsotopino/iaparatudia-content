@@ -1,7 +1,7 @@
 ---
 title: "Slack AI"
 description: "Funciones de IA que permiten buscar información en toda la empresa, resumir conversaciones y recibir resúmenes diarios."
-logo: "/images/tools/slack-ai-logo.jpg"
+logo: "/images/tools/slack-ai-logo.png"
 website: "https://slack.com/intl/es-es/features/ai"
 category: "comunicacion"
 pricing: "pago"

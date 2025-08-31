@@ -1,7 +1,7 @@
 ---
 title: "Notion AI - Workspace Inteligente"
 description: "Organiza tu negocio y genera contenido con IA en un solo lugar"
-logo: "/images/herramientas/notion-logo.jpg"
+logo: "/images/tools/notion-logo.ico"
 website: "https://notion.so"
 category: "productividad"
 pricing: "freemium"

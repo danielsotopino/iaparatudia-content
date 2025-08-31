@@ -1,7 +1,7 @@
 ---
 title: "HubSpot CRM con IA"
 description: "Gestiona clientes y ventas con inteligencia artificial integrada"
-logo: "/images/herramientas/hubspot-logo.jpg"
+logo: "/images/tools/hubspot-logo.png"
 website: "https://hubspot.com"
 category: "ventas"
 pricing: "freemium"

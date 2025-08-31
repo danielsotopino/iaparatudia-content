@@ -1,7 +1,7 @@
 ---
 title: "Vena Solutions"
 description: "Ofrece información impulsada por IA para potenciar a los equipos de FP&A (Análisis y Planificación Financiera)."
-logo: "/images/tools/venasolutions-logo.jpg"
+logo: "/images/tools/venasolutions-ai-logo.jpg"
 website: "https://www.venasolutions.com/"
 category: "finanzas"
 pricing: "pago"

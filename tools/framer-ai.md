@@ -1,7 +1,7 @@
 ---
 title: "Framer AI"
 description: "Permite crear sitios web interactivos y responsivos directamente desde instrucciones de texto."
-logo: "/images/tools/framer-ai-logo.jpg"
+logo: "/images/tools/framer-ai-logo.png"
 website: "https://www.framer.com/ai"
 category: "diseno"
 pricing: "freemium"

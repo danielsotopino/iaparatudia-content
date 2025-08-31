@@ -1,7 +1,7 @@
 ---
 title: "Dext"
 description: "Automatiza la recopilación y el procesamiento de facturas, recibos y extractos bancarios con una precisión superior al 99%."
-logo: "/images/tools/dext-logo.jpg"
+logo: "/images/tools/dext-logo.ico"
 website: "https://dext.com/"
 category: "finanzas"
 pricing: "pago"

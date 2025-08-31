@@ -1,7 +1,7 @@
 ---
 title: "Copy.ai - Redacción Inteligente"
 description: "Genera contenido de marketing profesional con inteligencia artificial"
-logo: "/images/herramientas/copy-ai-logo.jpg"
+logo: "/images/tools/copy-ai-logo.png"
 website: "https://copy.ai"
 category: "marketing-digital"
 pricing: "freemium"

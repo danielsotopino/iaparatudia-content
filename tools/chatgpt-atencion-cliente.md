@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT para Atención al Cliente"
 description: "Automatiza respuestas y mejora la atención con inteligencia artificial"
-logo: "/images/herramientas/chatgpt-logo.jpg"
+logo: "/images/tools/chatgpt-logo.ico"
 website: "https://chat.openai.com"
 category: "atencion-cliente"
 pricing: "freemium"

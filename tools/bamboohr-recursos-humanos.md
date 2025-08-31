@@ -1,7 +1,7 @@
 ---
 title: "BambooHR con IA"
 description: "Gestiona recursos humanos con inteligencia artificial para PyMEs"
-logo: "/images/herramientas/bamboohr-logo.jpg"
+logo: "/images/tools/bamboohr-logo.ico"
 website: "https://bamboohr.com"
 category: "recursos-humanos"
 pricing: "premium"
