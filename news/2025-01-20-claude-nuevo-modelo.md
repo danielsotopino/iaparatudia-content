@@ -15,15 +15,15 @@ category: "atencion-cliente"
 
 Anthropic acaba de lanzar Claude 4, y las novedades son especialmente útiles para dueños de pequeños negocios.
 
-## Lo que cambió
+### Lo que cambió
 - Respuestas más naturales en español
 - Integración directa con WhatsApp Business
 - Análisis de sentimientos en tiempo real
 
-## ¿Qué significa para tu negocio?
+### ¿Qué significa para tu negocio?
 Si manejas atención al cliente, esto puede **reducir tu tiempo de respuesta en 70%**.
 
-## Próximos pasos
+### Próximos pasos
 - La herramienta estará disponible la próxima semana
 - Costo estimado: $15/mes para hasta 1000 consultas
 - Próximo tutorial: "Cómo configurar Claude en tu WhatsApp Business" 

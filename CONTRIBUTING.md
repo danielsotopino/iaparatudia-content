@@ -48,11 +48,11 @@ category: "atencion-cliente"
 
 Después del encabezado YAML, escribe el contenido de la noticia en Markdown. Aquí hay algunos elementos importantes:
 
-#### Título Principal (H1)
-El primer encabezado debe ser un H1 (`#`) que coincida con el título del front matter.
+#### Título Principal (H3)
+El primer encabezado debe ser un H3 (`###`) que coincida con el título del front matter.
 
 #### Subtítulos
-Usa encabezados H2 (`##`) para las secciones principales de la noticia.
+Usa encabezados H4 (`####`) para las secciones principales de la noticia.
 
 #### Listas
 Puedes usar listas ordenadas (`1.`, `2.`) o desordenadas (`-`, `*`) para enumerar puntos clave.
@@ -120,19 +120,19 @@ category: "marketing"
 image: "/images/news/2025-07-30-titulo-de-la-noticia.jpg"
 ---
 
-# Título de la Noticia
+### Título de la Noticia
 
 Introducción breve y atractiva a la noticia.
 
-## Sección Principal 1
+#### Sección Principal 1
 
 Contenido detallado de la primera sección.
 
-## Sección Principal 2
+#### Sección Principal 2
 
 Contenido detallado de la segunda sección.
 
-## Conclusión
+#### Conclusión
 
 Resumen de los puntos clave y su importancia para las PyMEs.
 ```

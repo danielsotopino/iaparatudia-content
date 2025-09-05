@@ -15,7 +15,7 @@ image: "/images/news/2025-07-28-gemma-nuevo-modelo.jpg"
 
 Google ha vuelto a subir el listón en el campo de la inteligencia artificial de código abierto con el lanzamiento de **Gemma 3**, la tercera y más potente generación de su familia de modelos de IA. Construida con la tecnología de los avanzados modelos Gemini 2.0, Gemma 3 ofrece un rendimiento sin precedentes en un formato accesible, diseñado para funcionar desde en un portátil hasta en configuraciones de servidor complejas.
 
-## Novedades Clave de la Familia Gemma 3
+### Novedades Clave de la Familia Gemma 3
 
 Gemma 3 no es una simple actualización, sino un salto cualitativo que introduce capacidades antes reservadas a los modelos cerrados más grandes del mercado.
 
@@ -25,11 +25,11 @@ Gemma 3 no es una simple actualización, sino un salto cualitativo que introduce
 - **Soporte para Más de 140 Idiomas**: Esta capacidad hace que Gemma 3 sea una opción ideal para desarrollar aplicaciones con alcance global desde el primer día.
 - **Llamada a Funciones (Function Calling)**: Permite a los desarrolladores crear flujos de trabajo automatizados y agentes de IA que pueden interactuar con herramientas externas y APIs de forma estructurada.
 
-## Gemma 3n: Potencia para el Borde
+### Gemma 3n: Potencia para el Borde
 
 Junto con la familia principal, Google ha lanzado **Gemma 3n**, una versión especializada y optimizada para aplicaciones en dispositivos móviles y de borde (on-device). Este modelo, lanzado en junio de 2025, permite ejecutar potentes capacidades de IA directamente en el hardware del usuario, garantizando baja latencia y privacidad.
 
-## Un Ecosistema Abierto y Accesible
+### Un Ecosistema Abierto y Accesible
 
 Fiel a su filosofía de código abierto, Google ha puesto Gemma 3 a disposición de la comunidad a través de múltiples plataformas:
 
@@ -37,6 +37,6 @@ Fiel a su filosofía de código abierto, Google ha puesto Gemma 3 a disposición
 - **Integración en la Nube**: Se pueden desplegar y ajustar fácilmente utilizando herramientas como Vertex AI y Google Colab.
 - **Soporte de Hardware**: Cuentan con optimizaciones para ejecutarse en una amplia gama de hardware, incluyendo las últimas GPUs de NVIDIA.
 
-## Conclusión: El Poder de la IA de Vanguardia en Manos de Todos
+### Conclusión: El Poder de la IA de Vanguardia en Manos de Todos
 
 El lanzamiento de Gemma 3 representa un cambio de paradigma. Al ofrecer de forma abierta un modelo con capacidades multimodales y un rendimiento que rivaliza con los sistemas cerrados, Google está democratizando el acceso a la inteligencia artificial de última generación. Para las empresas y desarrolladores, esto abre un nuevo abanico de posibilidades para crear aplicaciones más inteligentes, eficientes y globales sin depender de APIs propietarias. La era de la IA abierta y potente ha alcanzado una nueva madurez con Gemma 3.
