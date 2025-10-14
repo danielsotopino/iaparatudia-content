@@ -15,7 +15,7 @@ featured: false
 
 # Automatizar respuestas de WhatsApp Business en 5 minutos
 
-![WhatsApp Business automation](/images/tutoriales/whatsapp-automation-cover.jpg)
+![WhatsApp Business automation](/images/tutorials/whatsapp-automation-cover.jpg)
 
 **Resultado:** Tus clientes recibirán respuesta inmediata, incluso cuando no estés disponible.
 
@@ -28,7 +28,7 @@ featured: false
 
 Abre WhatsApp Business → **Configuración** → **Herramientas empresariales**
 
-![Menú de herramientas empresariales](/images/tutoriales/whatsapp-paso1.jpg)
+![Menú de herramientas empresariales](/images/tutorials/whatsapp-paso1.jpg)
 
 ## Paso 2: Crear tu mensaje automático
 
@@ -43,7 +43,7 @@ Gracias por contactar [Tu Negocio].
 📍 Dirección: [Tu dirección]
 Te responderé en máximo 2 horas.
 
-![Configuración del mensaje de bienvenida](/images/tutoriales/whatsapp-paso2.jpg)
+![Configuración del mensaje de bienvenida](/images/tutorials/whatsapp-paso2.jpg)
 
 ## Paso 3: Configurar respuestas rápidas
 
@@ -51,7 +51,7 @@ Ve a **"Mensajes rápidos"** → **"+ Nuevo mensaje"**
 
 Crea respuestas para preguntas frecuentes:
 
-![Ejemplo de respuestas rápidas](/images/tutoriales/whatsapp-respuestas-rapidas.png)
+![Ejemplo de respuestas rápidas](/images/tutorials/whatsapp-respuestas-rapidas.png)
 
 ## Paso 4: Activar mensaje de ausencia
 
@@ -64,7 +64,7 @@ Tu mensaje es importante. Responderemos mañana a primera hora.
 
 ## Resultado final
 
-![Ejemplo de conversación automatizada](/images/tutoriales/whatsapp-resultado.gif)
+![Ejemplo de conversación automatizada](/images/tutorials/whatsapp-resultado.gif)
 
 ## ¿Qué sigue?
 - **Próximo tutorial:** "Integrar chatbot con WhatsApp Business"

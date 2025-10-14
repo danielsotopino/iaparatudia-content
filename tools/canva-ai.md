@@ -15,7 +15,7 @@ languages: ["Español"]
 
 ### Canva AI: Diseños profesionales sin ser diseñador
 
-![Canva AI Interface](/images/herramientas/canva-ai-hero.jpg)
+![Canva AI Interface](/images/tools/canva-ai-hero.jpg)
 
 #### ¿Qué hace exactamente?
 Canva AI te ayuda a crear posts para redes sociales, volantes, logos y presentaciones usando inteligencia artificial. Solo describes lo que necesitas y la IA lo crea.
@@ -33,7 +33,7 @@ Canva AI te ayuda a crear posts para redes sociales, volantes, logos y presentac
 - **Gratis**: Plantillas básicas + IA limitada
 - **Pro ($15/mes)**: Sin límites + marca de agua removida
 
-![Comparación de planes Canva](/images/herramientas/canva-planes.png)
+![Comparación de planes Canva](/images/tools/canva-planes.png)
 
 #### Cuánto tiempo te ahorra
 **Antes**: 2-3 horas creando un post
@@ -44,7 +44,7 @@ Canva AI te ayuda a crear posts para redes sociales, volantes, logos y presentac
 2. Busca "Magic Design" en la barra superior  
 3. Describe tu proyecto: "Post para Instagram sobre ofertas de restaurante"
 
-![Proceso de creación con Canva AI](/images/herramientas/canva-proceso.gif)
+![Proceso de creación con Canva AI](/images/tools/canva-proceso.gif)
 
 #### ¿Para qué tipo de negocio sirve?
 ✅ Restaurantes (menús, ofertas)  

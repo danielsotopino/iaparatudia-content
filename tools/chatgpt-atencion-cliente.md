@@ -15,7 +15,7 @@ languages: ["Español"]
 
 ### ChatGPT para Atención al Cliente: Tu asistente 24/7
 
-![ChatGPT Interface](/images/herramientas/chatgpt-logo.jpg)
+![ChatGPT Interface](/images/tools/chatgpt-logo.ico)
 
 #### ¿Qué hace exactamente?
 ChatGPT puede responder preguntas frecuentes de clientes, crear respuestas personalizadas para emails y WhatsApp, y ayudarte a resolver problemas comunes sin intervención humana.

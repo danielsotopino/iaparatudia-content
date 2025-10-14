@@ -15,7 +15,7 @@ languages: ["Español"]
 
 ### Monday.com: Gestión de proyectos con inteligencia artificial
 
-![Monday Interface](/images/herramientas/monday-logo.jpg)
+![Monday Interface](/images/tools/monday-logo.ico)
 
 #### ¿Qué hace exactamente?
 Monday.com organiza proyectos, tareas y equipos usando IA para predecir retrasos, automatizar asignaciones y optimizar recursos según el historial de tu empresa.

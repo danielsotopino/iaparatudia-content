@@ -15,7 +15,7 @@ languages: ["Español"]
 
 ### Notion AI: Tu oficina digital todo-en-uno
 
-![Notion Interface](/images/herramientas/notion-logo.jpg)
+![Notion Interface](/images/tools/notion-logo.ico)
 
 #### ¿Qué hace exactamente?
 Notion AI combina documentos, bases de datos y tareas en un solo lugar, usando IA para escribir contenido, organizar información y automatizar procesos administrativos.

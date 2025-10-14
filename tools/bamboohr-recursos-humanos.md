@@ -15,7 +15,7 @@ languages: ["Español", "Inglés"]
 
 ### BambooHR: Recursos Humanos inteligentes para PyMEs
 
-![BambooHR Interface](/images/herramientas/bamboohr-logo.jpg)
+![BambooHR Interface](/images/tools/bamboohr-logo.ico)
 
 #### ¿Qué hace exactamente?
 BambooHR gestiona empleados, nóminas y reclutamiento usando IA para encontrar mejores candidatos, predecir rotación de personal y automatizar procesos de RRHH.

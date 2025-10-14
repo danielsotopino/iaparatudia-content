@@ -15,7 +15,7 @@ languages: ["Español"]
 
 ### HubSpot CRM: Tu equipo de ventas potenciado con IA
 
-![HubSpot Interface](/images/herramientas/hubspot-logo.jpg)
+![HubSpot Interface](/images/tools/hubspot-logo.png)
 
 #### ¿Qué hace exactamente?
 HubSpot CRM organiza todos tus clientes y prospectos, automatiza seguimiento de ventas, y usa IA para predecir qué leads tienen más probabilidad de comprar.

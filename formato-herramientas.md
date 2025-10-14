@@ -62,7 +62,7 @@ languages: ["Español"]
 
 ### Canva AI: Diseños profesionales sin ser diseñador
 
-![Canva AI Interface](/images/herramientas/canva-ai-hero.jpg)
+![Canva AI Interface](/images/tools/canva-ai-hero.jpg)
 
 #### ¿Qué hace exactamente?
 Descripción de la funcionalidad principal.

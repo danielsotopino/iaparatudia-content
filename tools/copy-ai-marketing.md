@@ -15,7 +15,7 @@ languages: ["Español"]
 
 ### Copy.ai: Tu copywriter personal con IA
 
-![Copy.ai Interface](/images/herramientas/copy-ai-logo.jpg)
+![Copy.ai Interface](/images/tools/copy-ai-logo.png)
 
 #### ¿Qué hace exactamente?
 Copy.ai escribe textos de marketing, emails, posts para redes sociales y anuncios usando IA. Solo describes tu producto y el tipo de texto que necesitas.

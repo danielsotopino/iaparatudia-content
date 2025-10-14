@@ -1,16 +1,14 @@
 ---
 title: "Google Expande su Paquete de IA Gratuito para PyMEs en LatAm para 2025"
 description: "Tras el éxito de su iniciativa en 2024, Google amplía su oferta de herramientas de inteligencia artificial gratuitas para PyMEs en América Latina, con nuevas funciones y capacidades mejoradas."
-source: "Google for Small Business Blog"
-source_url: "https://www.google.com/business"
-impact: "alto"
-category: "tecnología"
-region: "latam"
-companies_involved: ["Google", "PyMEs latinoamericanas"]
-timeline: "Actualización lanzada en enero 2025"
 publishDate: 2025-01-15
-tags: ["google", "ia", "pymes", "gratuito", "latinoamerica", "2025", "actualizacion"]
+author: "IA para tu día"
+tags: ["Google", "IA", "PyMEs", "Gratuito", "Latinoamérica", "Actualización"]
+featured: false
 image: "/images/news/2025-01-15-google-ai-pymes-2025.jpg"
+readTime: "5 min"
+impact: "alto"
+category: "tecnologia-ia"
 ---
 
 Un año después de su revolucionario lanzamiento, Google ha anunciado una importante actualización y expansión de su conjunto de herramientas de inteligencia artificial para las pequeñas y medianas empresas (PyMEs) de América Latina. La versión 2025 se basa en el éxito del programa inicial, incorporando la retroalimentación de miles de empresas y añadiendo capacidades aún más potentes, sin ningún costo.

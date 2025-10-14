@@ -15,7 +15,7 @@ languages: ["Español", "Inglés"]
 
 ### Zapier: Conecta todo tu negocio automáticamente
 
-![Zapier Interface](/images/herramientas/zapier-logo.jpg)
+![Zapier Interface](/images/tools/zapier-logo.png)
 
 #### ¿Qué hace exactamente?
 Zapier conecta aplicaciones que usas (Gmail, WhatsApp, Excel, Google Sheets) para que trabajen juntas automáticamente. Cuando pasa algo en una app, automáticamente hace algo en otra.
