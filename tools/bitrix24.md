@@ -3,7 +3,7 @@ title: "Bitrix24"
 description: "Plataforma unificada de CRM, automatización y análisis inteligente con IA."
 logo: "/images/tools/bitrix24-logo.png"
 website: "https://www.bitrix24.com"
-category: "crm-automatizacion"
+category: "ventas"
 pricing: "freemium"
 difficulty: "principiante"
 tags: ["IA", "CRM", "PyMEs"]

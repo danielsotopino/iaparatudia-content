@@ -3,7 +3,7 @@ title: "Defontana IA"
 description: "Herramienta de automatización y análisis predictivo para PyMEs en Latinoamérica."
 logo: "/images/tools/defontana-ia-logo.png"
 website: "https://www.defontana.com/ia"
-category: "automatizacion-y-analisis-predictivo"
+category: "finanzas"
 pricing: "pago"
 difficulty: "principiante"
 tags: ["IA", "Automatización", "PyMEs"]

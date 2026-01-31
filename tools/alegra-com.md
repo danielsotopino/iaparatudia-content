@@ -3,7 +3,7 @@ title: "Alegra.com"
 description: "Gestor de tareas contables con IA en WhatsApp, ideal para PyMEs."
 logo: "/images/tools/alegra-com-logo.png"
 website: "https://www.alegra.com"
-category: "automatizacion-contable"
+category: "finanzas"
 pricing: "pago"
 difficulty: "principiante"
 tags: ["IA", "Contabilidad", "PyMEs"]
