@@ -35,8 +35,8 @@ Por otro lado, participar en el **Summit País Digital** te proporcionará conoc
 - **Disponibilidad**: Las herramientas y programas están disponibles en Chile y en expansión por Latinoamérica. Puedes registrarte en el programa IAméricas y participar en el Summit País Digital a través de sus sitios web oficiales.
 - **Costo**: El programa IAméricas podría tener acceso gratuito o subvencionado, mientras que Aiwifi + Omada cuenta con planes por menos de $50 USD/mes.
 - **Recursos**: 
-  - [Programa IAméricas](https://www.iamericas.com)
-  - [Aiwifi + Omada](https://www.aiwifi.com)
-  - [Summit País Digital 2025](https://www.paisdigital.cl)
+  - [Programa IAméricas](https://www.iamericas.ai)
+  - [Aiwifi + Omada](https://aiwifi.io/aiwifi-and-tp-link-omada-the-strategic-alliance-that-turns-your-wifi-into-a-growth-engine/)
+  - [Summit País Digital 2025](https://www.paisdigital.org)
 
 Estas herramientas y programas no solo son accesibles, sino que también están diseñados para ser fáciles de implementar, lo que las convierte en opciones ideales para PyMEs con habilidades técnicas promedio. La adopción de estas soluciones puede marcar una diferencia significativa en tu negocio. ¡No te quedes atrás y aprovecha estas oportunidades!
