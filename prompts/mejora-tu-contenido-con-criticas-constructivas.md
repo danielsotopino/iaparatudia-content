@@ -1,28 +1,28 @@
 ---
 title: "Mejora tu contenido con críticas constructivas"
-description: "Recibe críticas duras y constructivas para mejorar tu contenido."
+description: "Recibe críticas sinceras para optimizar tus textos y contenido digital."
 category: "marketing-digital"
 difficulty: "avanzado"
-tags: ["crítica", "contenido", "mejora"]
+tags: ["crítica", "mejora", "contenido"]
 featured: false
-publishDate: 2026-02-02
+publishDate: 2026-02-03
 prompt_text: |
-  Eres un crítico duro pero justo.
-
-  Revisa este CONTENT_TYPE: PASTE_CONTENT
-
-  ¿Qué es débil? ¿Qué no queda claro? ¿Qué falta?
-
-  Sé brutal. Quiero mejorar, no sentirme bien.
+  You are a harsh but fair critic.
+  
+  Review this CONTENT_TYPE: PASTE_CONTENT
+  
+  What's weak? What's unclear? What's missing? 
+  
+  Be brutal. I want to improve, not feel good.
 use_cases:
-  - "Revisión de publicaciones en redes sociales para aumentar la interacción"
-  - "Evaluación de campañas de email marketing para mejorar la tasa de apertura"
-  - "Generación de ideas creativas para contenido nuevo y atractivo"
-expected_output: "Recibirás una crítica detallada sobre tu contenido con recomendaciones específicas para mejorarlo."
+  - "Revisión de publicaciones en redes sociales"
+  - "Optimización de campañas de email marketing"
+  - "Generación de ideas para nuevos contenidos"
+expected_output: "Recibirás un análisis detallado de tu contenido con sugerencias específicas para mejorarlo."
 source: "r/ChatGPT"
 author: "u/zmilesbruce"
 ai_compatibility: ["ChatGPT", "Claude", "Gemini"]
-reddit_upvotes: 1869
+reddit_upvotes: 1867
 ---
 
 ### Cómo usar este prompt
@@ -34,8 +34,8 @@ Sigue estos pasos:
 2. **Abre tu IA favorita** (ChatGPT, Claude, Gemini o Copilot)
 
 3. **Pega el prompt** y reemplaza las palabras en **MAYÚSCULAS**:
-   - `CONTENT_TYPE` → Ejemplo: "publicación de Instagram"
-   - `PASTE_CONTENT` → Ejemplo: "Texto de la publicación que deseas revisar"
+   - `CONTENT_TYPE` → Ejemplo: "artículo de blog"
+   - `PASTE_CONTENT` → Ejemplo: "Aquí va el contenido que quiero que revises."
 
 4. **Envía el mensaje** y recibe tu resultado personalizado
 
@@ -50,7 +50,7 @@ Sigue estos pasos:
 ```
 You are a harsh but fair critic.
 
-Review this CONTENT_TYPE: publicación de Instagram
+Review this CONTENT_TYPE: artículo de blog
 
 What's weak? What's unclear? What's missing? 
 
@@ -58,17 +58,17 @@ Be brutal. I want to improve, not feel good.
 ```
 
 **Resultado que obtendrás:**
-Recibirás una crítica detallada sobre tu contenido con recomendaciones específicas para mejorarlo.
+Recibirás un análisis detallado de tu contenido con sugerencias específicas para mejorarlo.
 
 ---
 
 ### Cuándo usar este prompt
 
 ✅ **Ideal para:**
-- Mejorar la calidad de tus publicaciones en redes sociales
-- Optimizar campañas de email marketing
-- Generar ideas frescas para contenido creativo
+- Revisar contenido previo a su publicación
+- Mejorar la calidad de textos en redes sociales
+- Optimizar campañas de marketing digital
 
 ❌ **No recomendado para:**
-- Situaciones donde busques comentarios positivos sin crítica constructiva
-- Revisión de contenido que no esté destinado a mejorar o ser evaluado críticamente
+- Contenido que no se desea ajustar o modificar
+- Situaciones en las que se busca solo afirmación positiva
