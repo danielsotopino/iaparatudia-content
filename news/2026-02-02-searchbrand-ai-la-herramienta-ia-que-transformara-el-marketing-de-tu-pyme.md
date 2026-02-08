@@ -31,7 +31,7 @@ Al ser compatible con métodos de pago locales y cumplir con las regulaciones de
 
 ### Próximos pasos
 
-- **Disponibilidad**: SearchBrand.ai está actualmente disponible en Chile y España, con planes de expansión a México y Colombia.
+- **Disponibilidad**: y está actualmente disponible en Chile y España, con planes de expansión a México y Colombia.
 - **Costo**: Aunque no se especifica un precio exacto, se orienta a PyMEs y startups, con opciones accesibles que se deben confirmar.
 - **Recursos**: Se recomienda evaluar una demo o prueba piloto para validar la experiencia del usuario y los resultados obtenidos.
 
